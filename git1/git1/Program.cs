@@ -12,6 +12,7 @@ namespace git1
         {
             Console.WriteLine();
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
